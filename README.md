@@ -2,6 +2,8 @@
 
 React app built by following the [How to Make an AMAZON Clone with REACT JS](https://www.youtube.com/watch?v=1_IYL9ZMR_Y) tutorial by [Clever Programmer](https://www.cleverprogrammer.com/). Adapted to be written entirely in TypeScript.
 
+[Live Demo](https://react-amazn-clone-5b4b8.web.app/)
+
 In this project I learned the basics of:
 
 - React Context API ([React Context with useReducer and Typescript](https://dev.to/elisealcala/react-context-with-usereducer-and-typescript-4obm) article helped with adaptation for TypeScript)

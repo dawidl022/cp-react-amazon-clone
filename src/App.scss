@@ -1,0 +1,14 @@
+@mixin thick-yellow-btn {
+  @include thick-btn;
+  background-color: #f0c14b;
+  border-color: #a88734 #9c7e31 #846a29;
+}
+
+@mixin thick-btn {
+  border-radius: 2px;
+  border: 1px solid;
+  color: #111;
+  margin-top: 10px;
+  min-height: 30px;
+  width: 100%;
+}

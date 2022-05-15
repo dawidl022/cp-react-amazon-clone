@@ -1,0 +1,17 @@
+@import 'App.scss';
+
+.subtotal {
+  background-color: #f3f3f3;
+  border-radius: 3px;
+  border: 1px solid #ddd;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100px;
+  padding: 20px;
+  width: 300px;
+
+  &> button {
+    @include thick-yellow-btn;
+  }
+}
